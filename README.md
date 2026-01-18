@@ -1,4 +1,4 @@
-# Caffeine Corner POS - JavaEE Frontend
+# Caffeine Corner POS - JavaEE Backend
 Caffeine Corner is a comprehensive Point of Sale (POS) application designed specifically for coffee shops. It provides an efficient and intuitive system for managing customer interactions,
 product inventories, and order transactions. This project serves as an educational resource for mastering Java EE development.
 
@@ -64,12 +64,18 @@ Implemented using Java EE and hosted on the Apache Tomcat server, it ensures rob
 # Development Tools:
 * Maven: Build automation and project management tool (Version 4.0.0)
 
-### Backend Implementation :
-https://github.com/chamithKavinda/Coffee-Shop-POS-JavaEE-Backend
+### Frontend Implementation :
+https://github.com/chamithKavinda/Coffee-Shop-POS-System-FrontEnd
+
+# API Endpoint Documentation
+* Customer - https://documenter.getpostman.com/view/35385399/2sA3s1oryn
+* Product - https://documenter.getpostman.com/view/35385399/2sA3s3FqT2
+* Order - https://documenter.getpostman.com/view/35385399/2sA3s3FqT3
+* Order Details - https://documenter.getpostman.com/view/35385399/2sA3s3FqT4
 
 ## License
 
-This project is licensed under the MIT License. See the [License File](https://github.com/chamithKavinda/Coffee-Shop-POS-System-FrontEnd?tab=MIT-1-ov-file) for details.
+This project is licensed under the MIT License. See the [License File](https://github.com/chamithKavinda/Coffee-Shop-POS-JavaEE-Backend?tab=MIT-1-ov-file) for details.
 
 ---
 
@@ -80,4 +86,3 @@ For questions or support, please contact:
 - **Name**: Chamith Kavinda  
 - **Email**: chamth13kavinda@gmail.com  
 - **GitHub**: [Chamith Kavinda](https://github.com/chamithKavinda)
-
